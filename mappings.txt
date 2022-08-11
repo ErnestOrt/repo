@@ -1,24 +1,24 @@
-Acerinox||ACX.MC
-ArcelorMittal||MTS.MC
-Endesa||ELE.MC
-ACS||ACS.MC
-Inditex||ITX.MC
-Caixabank||CABK.MC
-Amadeus||AMS.MC
-Aena||AENA.MC
-Cellnex Telecom||CLNX.MC
-Melia Hotels||MEL.MC
-Laborat.Rovi||ROVI.MC
-Adidas||ADS.DE
-Airbus Group||AIR.DE
-Bayer||BAYN.DE
-BMW ST||BMW.DE
-Deutsche Post||DPW.DE
-Deutsche Telekom AG||DTE.DE
-Henkel VZO||HEN3.DE
-Linde PLC||LIN.DE
-Puma SE||PUM.DE 
-SAP||SAP.DE 
-Sartorius AG VZO||SRT3.DE
-Siemens AG||SIE.DE
-Volkswagen VZO||VOW3.DE
+Acerinox	ACX.MC
+ArcelorMittal	MTS.MC
+Endesa	ELE.MC
+ACS	ACS.MC
+Inditex	ITX.MC
+Caixabank	CABK.MC
+Amadeus	AMS.MC
+Aena	AENA.MC
+Cellnex Telecom	CLNX.MC
+Melia Hotels	MEL.MC
+Laborat.Rovi	ROVI.MC
+Adidas	ADS.DE
+Airbus Group	AIR.DE
+Bayer	BAYN.DE
+BMW ST	BMW.DE
+Deutsche Post	DPW.DE
+Deutsche Telekom AG	DTE.DE
+Henkel VZO	HEN3.DE
+Linde PLC	LIN.DE
+Puma SE	PUM.DE 
+SAP	SAP.DE 
+Sartorius AG VZO	SRT3.DE
+Siemens AG	SIE.DE
+Volkswagen VZO	VOW3.DE
