@@ -1,0 +1,75 @@
+Acciona	Strong Buy	Strong Buy	Strong Buy	Strong Buy
+Acerinox	Buy	Strong Buy	Strong Sell	Strong Sell
+ACS	Strong Buy	Strong Buy	Strong Buy	Buy
+Aena	Strong Buy	Strong Buy	Strong Sell	Strong Sell
+Amadeus	Strong Buy	Strong Buy	Buy	Sell
+ArcelorMittal	Buy	Strong Buy	Neutral	Sell
+Banco de Sabadell	Strong Buy	Buy	Strong Sell	Strong Sell
+Bankinter	Neutral	Neutral	Sell	Buy
+BBVA	Strong Buy	Strong Buy	Strong Buy	Strong Sell
+Caixabank	Neutral	Strong Buy	Neutral	Strong Buy
+Cellnex Telecom	Strong Buy	Neutral	Strong Buy	Neutral
+Corporacion Acciona Energias Renovables	Strong Sell	Neutral	Strong Buy	Strong Buy
+Enagas	Strong Buy	Buy	Strong Sell	Strong Sell
+Endesa	Neutral	Buy	Strong Sell	Strong Sell
+Ferrovial	Strong Buy	Strong Buy	Strong Buy	Strong Buy
+Fluidra	Strong Buy	Neutral	Strong Sell	Strong Sell
+Gamesa	Strong Buy	Strong Buy	Neutral	Strong Sell
+Grifols	Strong Sell	Strong Sell	Strong Sell	Strong Sell
+IAG	Strong Buy	Strong Buy	Sell	Strong Sell
+Iberdrola	Strong Buy	Strong Buy	Strong Buy	Strong Buy
+Inditex	Strong Buy	Strong Buy	Strong Buy	Neutral
+Indra A	Neutral	Strong Sell	Strong Sell	Neutral
+Inmobiliaria Colonial	Strong Buy	Strong Buy	Strong Sell	Strong Sell
+Laborat.Rovi	Sell	Strong Sell	Strong Sell	Sell
+Mapfre	Strong Buy	Strong Buy	Sell	Strong Sell
+Melia Hotels	Strong Buy	Strong Buy	Neutral	Strong Sell
+Merlin Properties SA	Strong Buy	Neutral	Strong Buy	Strong Buy
+Naturgy Energy	Sell	Sell	Buy	Strong Buy
+Pharma Mar	Strong Buy	Strong Sell	Strong Sell	Sell
+Red Electrica	Neutral	Strong Buy	Strong Buy	Strong Buy
+Repsol	Strong Buy	Strong Buy	Neutral	Strong Buy
+Sacyr	Strong Buy	Strong Buy	Neutral	Buy
+Santander	Strong Buy	Strong Buy	Sell	Strong Sell
+Solaria	Buy	Strong Buy	Strong Buy	Strong Buy
+Telefonica	Neutral	Strong Sell	Strong Sell	Neutral
+Adidas	Strong Buy	Strong Buy	Sell	Strong Sell
+Airbus Group	Strong Buy	Strong Buy	Strong Buy	Strong Buy
+Allianz	Strong Buy	Buy	Strong Sell	Strong Sell
+BASF	Strong Sell	Neutral	Strong Sell	Strong Sell
+Bayer	Strong Sell	Strong Sell	Strong Sell	Strong Sell
+Beiersdorf AG	Sell	Buy	Strong Buy	Strong Buy
+BMW ST	Neutral	Neutral	Neutral	Strong Sell
+Brenntag AG	Strong Buy	Strong Buy	Buy	Neutral
+Continental AG	Strong Sell	Strong Sell	Strong Sell	Strong Sell
+Covestro	Strong Sell	Strong Sell	Strong Sell	Strong Sell
+Daimler	Strong Buy	Strong Buy	Buy	Neutral
+Daimler Truck Holding	Neutral	Strong Buy	Strong Buy	Strong Buy
+Deutsche Bank AG	Strong Buy	Strong Buy	Strong Sell	Strong Sell
+Deutsche Boerse	Strong Sell	Strong Buy	Strong Buy	Strong Buy
+Deutsche Post	Strong Buy	Strong Buy	Strong Buy	Neutral
+Deutsche Telekom AG	Neutral	Strong Buy	Strong Buy	Strong Buy
+E.ON SE	Strong Buy	Strong Buy	Neutral	Strong Sell
+Fresenius Medical Care	Neutral	Strong Sell	Strong Sell	Strong Sell
+Fresenius SE	Strong Sell	Strong Sell	Strong Sell	Strong Sell
+Hannover Rueckversicherung SE	Strong Buy	Strong Buy	Strong Buy	Neutral
+Heidelbergcement	Strong Buy	Strong Buy	Neutral	Strong Sell
+HelloFresh	Strong Buy	Buy	Strong Sell	Strong Sell
+Henkel VZO	Strong Sell	Strong Buy	Buy	Strong Sell
+Infineon	Strong Buy	Strong Buy	Buy	Neutral
+Linde PLC	Strong Buy	Strong Buy	Strong Buy	Strong Buy
+Merck	Strong Buy	Strong Buy	Strong Buy	Strong Buy
+MTU Aero	Strong Buy	Strong Buy	Strong Buy	Neutral
+Muench. Rueckvers.	Strong Buy	Strong Buy	Buy	Neutral
+Porsche	Strong Sell	Neutral	Neutral	Sell
+Puma SE	Strong Buy	Strong Buy	Neutral	Strong Sell
+Qiagen	Strong Buy	Strong Buy	Strong Buy	Strong Buy
+RWE AG ST	Strong Buy	Strong Buy	Strong Buy	Strong Buy
+SAP	Buy	Strong Buy	Neutral	Strong Sell
+Sartorius AG VZO	Strong Buy	Strong Buy	Strong Buy	Neutral
+Siemens AG	Strong Buy	Strong Buy	Strong Sell	Strong Sell
+Siemens Healthineers	Strong Buy	Strong Buy	Buy	Neutral
+Symrise AG	Strong Buy	Neutral	Strong Buy	Neutral
+Volkswagen VZO	Strong Buy	Strong Buy	Neutral	Strong Sell
+Vonovia	Strong Buy	Neutral	Strong Sell	Strong Sell
+Zalando SE	Strong Buy	Strong Buy	Sell	Strong Sell
